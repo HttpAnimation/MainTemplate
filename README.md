@@ -1,2 +1,2 @@
-# MainTemplate
+# MainTemplate/main
 A template I use
